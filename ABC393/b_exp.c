@@ -1,12 +1,3 @@
-// 入力例 1
-// Copy
-// AABCC
-// 出力例 1
-// Copy
-// 2
-// (i,j,k)=(1,3,5),(2,3,4) の
-// 2 つの組が条件を満たします。
-
 #include <stdio.h>
 #include <string.h>
 
